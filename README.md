@@ -1,6 +1,6 @@
 # SensorConnect - Hub de Sensores IoT
 
-![SensorConnect](./8fd9e955-4f60-4ebe-8fdc-7e884a8ba368.png)
+[![SensorConnect](./8fd9e955-4f60-4ebe-8fdc-7e884a8ba368.png)](https://github.com/pamemendez/ConnectSensor/issues/1#issue-3091622978)
 
 ## 🎯 Sobre o Projeto
 
